@@ -1,0 +1,48 @@
+h1{
+    color: #000000;
+    font-weight: bold;
+    font-size: 40px;
+    border-radius: 50px;
+}
+#mainheading{
+    color: #ffffff;
+    font-size: 30px;
+    text-align: center;
+    background-color: skyblue;
+}
+
+div{
+    padding: 20px;
+    /* border: 1px solid #4CAF50; */
+    color: #532020;
+}
+
+.Description{
+    color:rgb(0, 0, 0);
+    font-size: 20px;
+    align-self: auto;
+    float: left;
+}
+
+#Skills{
+    color: #000000;
+    font-size: 20px;
+    text-align: left;
+    background-color: skyblue;
+    border-radius: 20px;
+    border-color: azure;
+    border-width: thick;
+    padding: 20px;
+}
+
+
+#Follow{
+    color:#ffffff;
+    font-size: 20px;
+    text-align: center;
+}
+
+.doubleUnderline {
+    text-decoration:underline;
+    border-bottom: 1px solid rgb(194, 153, 153);
+}
